@@ -1,0 +1,4 @@
+#Instala Biblioteca tkinter
+
+pip install tkinter
+pip install customtkinter
