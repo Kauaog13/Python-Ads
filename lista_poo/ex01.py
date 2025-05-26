@@ -1,3 +1,5 @@
+#Crie uma classe chamada Pessoa com os atributos: nome, idade. Inclua um método apresentar que imprime: "Olá, meu nome é <nome> e tenho <idade> anos."
+
 # Definição da classe Pessoa
 class Pessoa:
     # Método construtor que inicializa os atributos nome e idade
